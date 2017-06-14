@@ -26,20 +26,20 @@ requests](#pull-requests), but please respect the following restrictions:
 ## Bug reports
 
 A bug is a _demonstrable problem_ that is caused by the code in the repository.
-Good bug reports are extremely helpful - thank you!
+Good bug reports are extremely helpful—thank you!
 
 Guidelines for bug reports:
 
-1. **Use the GitHub issue search** &mdash; check if the issue has already been
+1. **Use the GitHub issue search** — check if the issue has already been
    reported.
 
-2. **Check if the issue has been fixed** &mdash; try to reproduce it using the
+2. **Check if the issue has been fixed** — try to reproduce it using the
    latest `master` or development branch in the repository.
 
-3. **Isolate the problem** &mdash; create a [reduced test
+3. **Isolate the problem** — create a [reduced test
    case](http://css-tricks.com/reduced-test-cases/) and a live example.
 
-A good bug report shouldn't leave others needing to chase you up for more
+A good bug report shouldn’t leave others needing to chase you up for more
 information. Please try to be as detailed as possible in your report. What is
 your environment? What steps will reproduce the issue? What browser(s) and OS
 experience the problem? What would you expect to be the outcome? All these
@@ -68,8 +68,8 @@ Example:
 ## Feature requests
 
 Feature requests are welcome. But take a moment to find out whether your idea
-fits with the scope and aims of the project. It's up to *you* to make a strong
-case to convince the project's developers of the merits of this feature. Please
+fits with the scope and aims of the project. It’s up to *you* to make a strong
+case to convince the project’s developers of the merits of this feature. Please
 provide as much detail and context as possible.
 
 
@@ -83,12 +83,12 @@ commits.
 **Please ask first** before embarking on any significant pull request (e.g.
 implementing features, refactoring code, porting to a different language),
 otherwise you risk spending a lot of time working on something that the
-project's developers might not want to merge into the project.
+project’s developers might not want to merge into the project.
 
 Please adhere to the coding conventions used throughout a project (indentation,
 accurate comments, etc.) and any other requirements (such as test coverage).
 
-Follow this process if you'd like your work considered for inclusion in the
+Follow this process if you’d like your work considered for inclusion in the
 project:
 
 1. [Fork](http://help.github.com/fork-a-repo/) the project, clone your fork,
@@ -119,7 +119,7 @@ project:
 
 4. Commit your changes in logical chunks. Please adhere to these [git commit
    message guidelines](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
-   or your code is unlikely be merged into the main project. Use Git's
+   or your code is unlikely be merged into the main project. Use Git’s
    [interactive rebase](https://help.github.com/articles/interactive-rebase)
    feature to tidy up your commits before making them public.
 
